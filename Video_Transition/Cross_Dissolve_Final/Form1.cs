@@ -15,7 +15,7 @@ namespace Cross_Dissolve_Final {
         int times = 0;
 
         Graphics g;
-        Bitmap[] data = new Bitmap[number+1];
+        Bitmap[] data = new Bitmap[number];
 
         public Form1() {
             InitializeComponent();
@@ -85,7 +85,7 @@ namespace Cross_Dissolve_Final {
             else {
                 times = 0;
                 timer1.Enabled = false;
-            }         
+            }
         }
     }
 }
