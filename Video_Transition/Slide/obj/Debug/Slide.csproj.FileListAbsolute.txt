@@ -1,0 +1,10 @@
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\bin\Debug\Slide.exe.config
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\bin\Debug\Slide.exe
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\bin\Debug\Slide.pdb
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.Form1.resources
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.csproj.GenerateResource.cache
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.exe
+C:\Users\yuchi\GitHub\Introduction_to_Multimedia_Information_Systems_Labs\Video_Transition\Slide\obj\Debug\Slide.pdb
