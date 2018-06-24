@@ -2,6 +2,7 @@ rgb_I = imread('lena_std.tiff');
 gry_I = im2double(rgb2gray(rgb_I));
 bw_I = imbinarize(gry_I);
 
+
 figure(1)
 imshow(bw_I);
 title("Black White Image");
